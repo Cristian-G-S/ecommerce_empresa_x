@@ -17,3 +17,9 @@ Melhoria 1, 2
 * JavaScript
 * PHP 
 * My SQL
+
+### Funcionalidades a desenvolver:
+
+1. Área de membro
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
