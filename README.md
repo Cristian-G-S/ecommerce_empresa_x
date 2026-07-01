@@ -29,4 +29,4 @@ Melhoria 1, 2
 
 #### Imagem local
 
-![Logo do Git](img/git.png)
+![Logo do Git](/img/git.png)
