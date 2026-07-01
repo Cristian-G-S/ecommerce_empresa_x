@@ -29,4 +29,4 @@ Melhoria 1, 2
 
 #### Imagem local
 
-<img src="/img/git.png" alt="Imagem git" width="150">
+![Logo do Git](git.png)
