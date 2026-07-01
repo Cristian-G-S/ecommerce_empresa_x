@@ -40,3 +40,5 @@ Melhoria 1, 2
 [Google](https://www.google.com)
 
 [https://www.youtube.com/](https://www.youtube.com/)
+
+Contribuidor principal : https://github.com/Cristian-G-S
