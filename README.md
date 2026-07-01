@@ -44,3 +44,11 @@ Melhoria 1, 2
 Contribuidor principal : https://github.com/Cristian-G-S
 
 [![Logo GitHub](github.png)](https://github.com/Cristian-G-S)
+
+## Código da função soma
+
+```JavaScript
+function soma(a, b) {
+    return a + b;
+}
+```
