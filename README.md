@@ -33,4 +33,4 @@ Melhoria 1, 2
 
 #### Imagem externa
 
-![Logo Git](https://www.hiclipart.com/free-transparent-background-png-clipart-pxqon)
+![Logo Git](https://toppng.com/uploads/preview/git-logo-11609362364wwhuzvtx5h.png)
