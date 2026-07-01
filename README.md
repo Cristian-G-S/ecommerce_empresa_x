@@ -26,3 +26,7 @@ Melhoria 1, 2
     3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sis tema de bônus primeira compra
+
+#### Imagem local
+
+![Logo do Git](img/git.png)
