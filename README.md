@@ -34,3 +34,7 @@ Melhoria 1, 2
 #### Imagem externa
 
 ![Logo Git](https://img.icons8.com/color/1200/git.jpg)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
