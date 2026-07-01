@@ -29,4 +29,8 @@ Melhoria 1, 2
 
 #### Imagem local
 
-![Logo do Git](git.png)
+![Logo do GitHub](github.png)
+
+#### Imagem externa
+
+![Logo Git](https://www.hiclipart.com/free-transparent-background-png-clipart-pxqon)
